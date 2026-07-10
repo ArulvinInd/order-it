@@ -28,3 +28,5 @@ If you are developing a production application, we recommend enabling type-aware
   }
 }
 ```
+
+Nice Idea
